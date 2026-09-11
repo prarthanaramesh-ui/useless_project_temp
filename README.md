@@ -33,7 +33,7 @@ ANT-O-METER solves the ant immigration crisis by establishing a fully automated,
 
 Real-time Ant Headcounter: Continuously logs and displays real-time metrics, including the total number of incoming immigrant ants, active scans, successfully cleared tourists, and terminated sugar-smuggling invaders.
 
-Sugar Cube Threshold Protocol: Every arriving ant undergoes a strict cargo scan. If an ant carries $\le 2.5$ sugar cubes, it is marked as a VERIFIED TOURIST and guided to the beach pool to enjoy its vacation. However, if an ant attempts to cross with $> 2.5$ sugar cubes, it is instantly flagged as a HOSTILE INVADER, triggering screen-shaking alarms, an explosion animation, and immediate vaporizing execution
+Sugar Cube Threshold Protocol: Every arriving ant undergoes a strict cargo scan. If an ant carries $\le 2.0$ sugar cubes, it is marked as a VERIFIED TOURIST and guided to the beach pool to enjoy its vacation. However, if an ant attempts to cross with $> 2.0$ sugar cubes, it is instantly flagged as a HOSTILE INVADER, triggering screen-shaking alarms, an explosion animation, and immediate vaporizing execution
 
 Interactive Briefing & Sound Engine: Features a 7-chapter story walkthrough to train border officers on scanner mechanics and invader threat levels, accompanied by a procedural background jazz track synthesized live through the browser's audio engine.
 
