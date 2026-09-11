@@ -2,23 +2,26 @@
 
 
 
-# [Project Name] 🎯
+# [ANT-O-METER] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: MARS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: NANDA RAGHUNATH - JYOTHI ENGINEERING COLLEGE THRISSUR
+- Member 2: PRARTHANA RAMESH - JYOTHI ENGINEERING COLLEGE THRISSUR
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Counting ants manually in a particular area can be difficult when many ants are moving continuously. A
+computer-based system can demonstrate automatic movement tracking and counting. The project is
+designed as a lightweight and visually engaging hackathon prototype that can later be extended to real
+camera-based detection.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -26,10 +29,11 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- JAVASCRIPT
+- AI TOOLS
+  
 
 For Hardware:
 - [List main components]
