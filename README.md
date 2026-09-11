@@ -51,50 +51,46 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+No installation required. Simply download or extract the project files
 
 # Run
-[commands]
+Double-click 'index.html'
 
 ### Project Documentation
 For Software:
+ANT-O-METER is an over-engineered immigration security and vacation resort management web application built to control worker ant foot traffic visiting an exclusive tropical ant resort.
+
+The application operates in two distinct phases:
+
+Interactive Story Mode: An initial 7-chapter interactive narrative that onboards border officers on scanner mechanics, credentials verification (Ant ID and Employee ID), and sugar cube smuggling criteria.
+
+Live Simulation Engine: The core interactive sandbox where immigrant ants approach the border checkpoint in real time.
+
+Global border security agencies spend billions on airport security for humans, yet millions of worker ants cross back and forth through kitchens and backyards unchecked. ANT-O-METER solves this crisis by running a real-time ant headcounter (tracking total arrivals, active scans, cleared tourists, and eliminated invaders). Every arriving ant is intercepted at the border line to scan its carried sugar cubes:
+
+<= 2.0 Sugar Cubes: Flagged as a VERIFIED TOURIST and granted safe entry to the beach resort pool.
+
+2.0 Sugar Cubes: Flagged as a HOSTILE INVADER, triggering screen-shaking red alarms, an explosion animation, and immediate vaporizing execution.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1848" height="1012" alt="Screenshot 2026-09-12 032450" src="https://github.com/user-attachments/assets/ca0317fd-1c1b-4ce8-913c-07713cd647dc" />
+Figure 1: The 7-chapter interactive story onboarding officers before the border simulation begins.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1900" height="1063" alt="Screenshot 2026-09-12 033502" src="https://github.com/user-attachments/assets/0cab7a61-f349-4e2f-88b2-023ee600c78d" />
+Figure 2: Border scanner intercepting an immigrant ant and weighing its sugar cube payload.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1900" height="1062" alt="Screenshot 2026-09-12 034025" src="https://github.com/user-attachments/assets/5fb939e5-c288-4026-b4bb-fadc3c452562" />
+Figure 3: Screen flash and explosion animation triggered upon detecting a hostile ant with over 2.0 sugar cubes.
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
+Complete end-to-end operational workflow diagram for ANT-O-METER. The flowchart illustrates the system transition from Phase 1 (Interactive Story Briefing) to Phase 2 (Live Simulation). It details the step-by-step logic used to intercept arriving immigrant ants, increment real-time metric counters, evaluate carried sugar cube weight, route cleared tourists (<= 2.0 sugar cubes) to the beach resort, and trigger immediate red alarms and explosion protocols for detected hostile invaders (> 2.0 sugar cubes).
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/1OIo2hFSUJEm7YCWoxDEYLmjXByxuE0nb/view?usp=drive_link
 *Explain what the video demonstrates*
 
 # Additional Demos
