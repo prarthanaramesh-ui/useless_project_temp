@@ -17,7 +17,7 @@
 ### Project Description
 ANT-O-METER is an automated immigration security, threat detection, and real-time census web application designed to regulate immigrant ant traffic traveling toward an exclusive ant tourist resort. Operating at a central border checkpoint, the system continuously tracks incoming ant counts, conducts automated identity and cargo security scans, detects hostile invaders attempting to infiltrate the tourist grounds, instantly kills identified invaders, and tallies the total number of ants that successfully reach the resort.
 
-### The Problem (that doesn't exist)
+### The Problem
 Ant vacation resorts are constantly under threat from unauthorized infiltrators, sugar smugglers, and aggressive ant invaders hiding within crowds of innocent tourist ants. Traditional ant border control methods fail because:
 
 Border guards cannot visually distinguish between a law-abiding tourist ant and a hostile invader in real time.
@@ -28,7 +28,7 @@ Security teams lack live tally counts for incoming visitors, approved tourists, 
 
 Hostile invaders sneak past border lines before security can execute immediate countermeasures.
 
-### The Solution (that nobody asked for)
+### The Solution
 ANT-O-METER solves the ant immigration crisis by establishing a fully automated, border-patrol checkpoint directly outside the resort gates:
 
 Real-time Ant Headcounter: Continuously logs and displays real-time metrics, including the total number of incoming immigrant ants, active scans, successfully cleared tourists, and terminated sugar-smuggling invaders.
