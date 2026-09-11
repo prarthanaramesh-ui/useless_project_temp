@@ -2,7 +2,7 @@
 
 
 
-# [ANT-O-METER] 🎯
+# ANT-O-METER
 
 
 ## Basic Details
