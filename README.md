@@ -83,6 +83,66 @@ Figure 2: Border scanner intercepting an immigrant ant and weighing its sugar cu
 Figure 3: Screen flash and explosion animation triggered upon detecting a hostile ant with over 2.0 sugar cubes.
 
 # Diagrams
+  +-----------------------------------+
+               |      LAUNCH APPLICATION           |
+               +-----------------------------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               |    PHASE 1: STORY MODE (1 to 7)   |
+               | (Briefing, ID Checks, Rules Info) |
+               +-----------------------------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               |  PHASE 2: LIVE BORDER SIMULATION  |
+               +-----------------------------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               |      Immigrant Ant Spawns         |
+               |  (Total Arrivals Counter ++ )     |
+               +-----------------------------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               | Intercepted at Security Checkpoint|
+               | (Scan ID Badge & Weigh Cargo)     |
+               +-----------------------------------+
+                                 |
+                 +---------------+---------------+
+                 |                               |
+                 v                               v
+    [ Sugar Cubes <= 2.0 ]            [ Sugar Cubes > 2.0 ]
+                 |                               |
+                 v                               v
+       Classification: TOURIST         Classification: INVADER
+                 |                               |
+                 v                               v
+    [ Cleared Count ++ ]             [ Invader Count ++ ]
+                 |                               |
+                 v                               v
+    [ Enters Beach Resort Pool ]    [ Red Alarm Flash & Explosion ]
+                 |                               |
+                 v                               v
+    [ Relaxes at Umbrella ]         [ Entity Instantly Vaporized ]
+                 |                               |
+                 +---------------+---------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               |     Append Security Log Entry     |
+               +-----------------------------------+
+                                 |
+                                 v
+               +-----------------------------------+
+               |     All Ants Scanned Check?       |
+               +-----------------------------------+
+                 |                               |
+              (No)                             (Yes)
+                 |                               |
+                 v                               v
+       [ Continue Simulation ]        [ Trigger Confetti Party ]
 
 Complete end-to-end operational workflow diagram for ANT-O-METER. The flowchart illustrates the system transition from Phase 1 (Interactive Story Briefing) to Phase 2 (Live Simulation). It details the step-by-step logic used to intercept arriving immigrant ants, increment real-time metric counters, evaluate carried sugar cube weight, route cleared tourists (<= 2.0 sugar cubes) to the beach resort, and trigger immediate red alarms and explosion protocols for detected hostile invaders (> 2.0 sugar cubes).
 
@@ -91,15 +151,15 @@ Complete end-to-end operational workflow diagram for ANT-O-METER. The flowchart 
 ### Project Demo
 # Video
 https://drive.google.com/file/d/1OIo2hFSUJEm7YCWoxDEYLmjXByxuE0nb/view?usp=drive_link
-*Explain what the video demonstrates*
+
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- NANDA RAGHUNATH : WEB APP DEVELOPING
+- PRARTHANA RAMESH : WEB APP DEVELOPING
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
